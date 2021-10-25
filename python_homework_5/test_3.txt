@@ -1,0 +1,5 @@
+Ivanov 40000
+Petrov 21000
+Platonov 15000
+Smirnov 18000
+Orlov 35000
